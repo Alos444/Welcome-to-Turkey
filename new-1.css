@@ -1,0 +1,11 @@
+.menu, .right {
+  float: left;
+  text-align: center;
+}
+
+.right {
+  background-color: linen;
+  width: 30%;
+  padding: 15px;
+}
+/*# sourceMappingURL=new-1.css.map */

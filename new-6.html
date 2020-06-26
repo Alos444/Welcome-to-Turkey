@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Alena's album</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1:0">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js"></script>
+
+    <style>
+      .overlay {
+    position: fixed;
+      bottom: 100%;
+      left: 0;
+      right: 0;
+      background-color: #008CBA;
+      overflow: hidden;
+      width: 100%;
+      height:0;
+      transition: .5s ease;
+        border: 10px solid white;
+      }
+      .container:hover .overlay {
+        bottom: 0;
+        height: 100%;}
+
+      
+     
+      h1,h2 {
+        color: red;
+        text-align: center;
+      }
+      .container {
+        display: flex;
+        flex-wrap: wrap;
+        margin: 20px;
+        padding: 20px; 
+        
+      }
+      
+      
+     
+
+ 
+        img {
+          border: 2px solid red;
+          width: 550px;
+          height: 350px;
+      
+          padding: 5px;
+        }
+       
+      ol {
+         color: white;
+         font-family: cursive;
+         font-size: 25px;
+       }
+     
+     a[target="_blank"] {
+       color: white;
+     
+      }
+      p {
+        text-align: center;
+        font-size: 20px;
+
+      }
+      
+      p1 {
+        text-align: center;
+       
+        color: aliceblue;
+        font-size: 15px;
+      }
+      button::before  {
+        content:"\21d2"
+      }
+      button {
+      font-size:16px;
+      cursor:pointer;
+      float: center;
+        margin:10px 10px;
+        background-color: red;
+      }
+      #Explore {
+        font-family: Arial, Helvetica, sans-serif;
+      }
+      div>p {
+        color: darkgreen;
+      }
+     
+      
+      
+      
+
+    
+      
+    </style>
+  </head>
+  <body>
+ 
+    <h2>WELCOME TO MY WORLD!</h2>
+
+    
+   
+    <div class="container">
+      <div class="row">
+      <div class="col-sm-6">
+        <img src="IMG_3762.JPG">
+      
+        </div>
+        
+        <div class="col-sm-6">
+          <img src="kop.jpg">
+        </div>
+        </div>
+      <div class="overlay">
+        
+        <h1>Alena's Album</h1>
+        <h1>Istanbul</h1>
+       
+        <div class="container-flex">
+          <div class="row">
+            <div class="col-6">
+              <p> I will introduce you a whole new perspective on:</p>
+          <ol>
+            <li><a href="new-1.html" target="_blank"> Picturesque and historical places</a></li>
+            <li><a href="new-5.html" target="_blank">Delicious food</li>
+            
+            <li><a href="Column.html" target="_blank">Places to relax</li>
+            
+              <ul>
+               <li>Europe</li> 
+               <li>Asia</li>
+              </ul>
+              
+           
+              <li><a href="new-3.html" target="_blank">Interesting facts</a></li>
+           
+          </ol>
+        </div>
+            <div class="col-6">
+              <p1> I have lived in Turkey for more than seven years and so amazed and impressed by traditions, culture  and hospitality of citizens. that is why i decided that Istanbul will be my first topic i would like to talk about when creating my first website.</p1> 
+              <button id="Explore"><a href="new-3.html">Explore</button> 
+              <img src="pic.jpeg" alt="istanbul">
+
+              
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    </div>
+ 
+   
+ 
+
+
+  </body>
+</html>

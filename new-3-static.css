@@ -1,0 +1,55 @@
+.btn {
+    margin: 5px;
+    padding:auto;
+    float: right;
+  }
+    .container {
+      position: fixed;
+      bottom: 5px;;
+    }
+   
+    h1 {
+       color: red;
+      text-align: center;
+      font-family: verdana;
+      text-shadow: 2px 2px;
+    }
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+       header {
+      height: 150px;
+      text-align: center;
+      margin: 30px;
+        
+    }
+    
+   
+    
+    p {
+      
+      font-size: 20px;
+      margin: 50px; 
+    }
+    
+    aside {
+      
+        border: 2px solid;
+        padding: 10px; 
+        width: 300px;
+        resize: horizontal;
+        overflow: auto;
+     
+      padding-left: 15px;
+      margin: 25px;
+      float: right;
+      font-style: italic;
+      background-color: whitesmoke;
+    }  
+    footer {
+      background-color: whitesmoke;
+      height: 200px;
+      margin: 25px;
+      text-align: right;
+    }

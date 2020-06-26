@@ -1,0 +1,15 @@
+$myFontSize: 20px;
+$mycolor: darksyan;
+$myTextAlign: center;
+
+h1,h3,h5 {
+    color: $mycolor;
+}
+p1 {
+    text-align: $myTextAlign;
+    font-size: $myFontSize;
+    color: $mycolor;
+}
+h3,h5 {
+    text-align: $myTextAlign;
+}

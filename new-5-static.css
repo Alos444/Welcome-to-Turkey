@@ -1,0 +1,44 @@
+
+     
+      img {
+       border: 2px solid red;
+      width: 200px;
+        height: 150px;
+      }
+      
+      
+      table,th,td {
+        border: 2px solid black;
+        border-collapse: collapse;
+      }
+      th,td {
+        padding: 15px;
+      }
+      th {
+        color:crimson;
+        font-family: fantasy;
+        font-size: 20px;
+      }
+      .col-12 {
+        height: 30px;
+      }
+  
+
+  td  {
+    font-family: fantasy;
+  }
+      
+      nav ul {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+      
+      }
+      nav li {
+        display: inline-block;
+      }
+      nav a {
+        display: block;
+        padding: 50px 50px;
+        text-decoration: none;
+      }

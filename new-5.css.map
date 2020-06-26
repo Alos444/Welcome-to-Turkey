@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAIA,AAAA,EAAE,EAAC,EAAE,EAAC,EAAE,CAAC;EACL,KAAK,EAJC,QAAQ;CAKjB;;AACD,AAAA,EAAE,CAAC;EACC,UAAU,EANA,MAAM;EAOhB,SAAS,EATA,IAAI;EAUb,KAAK,EATC,QAAQ;CAUjB;;AACD,AAAA,EAAE,EAAC,EAAE,CAAC;EACF,UAAU,EAXA,MAAM;CAYnB",
+    "sources": [
+        "new-5.scss"
+    ],
+    "names": [],
+    "file": "new-5.css"
+}

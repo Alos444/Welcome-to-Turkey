@@ -1,0 +1,11 @@
+.menu {
+    float: left;
+    text-align: center;
+}
+.right {
+@extend .menu;
+background-color: linen;
+width: 30%;
+padding:15px;
+}
+
