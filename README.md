@@ -1,7 +1,7 @@
-# Project 0
+# Alena's Album
 
 Web Programming with Python and JavaScript
-Hello, my name is Alena and I would like do describe my first Project0 called Alena's album.
+Hello, my name is Alena and I would like do describe my first Project called Alena's album.
  The home page is a HTML file with styles defined by using internal CSS plus bootstrap columns for the overlapping layout. Also I have applied #id selector, attribute, child and pseudo-element selector in the stylesheet.
 Next page named "Picturesque and historical places" has been created by combining HTML and external CSS files.
  It is a responsive web page and to make rows and columns looking good on small screens I have used media queries. Also it was convenient for me to show the information on the web page by working with different types of CSS properties and selectorsAND A SCSS @extend directive.
